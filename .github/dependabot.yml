@@ -1,6 +1,5 @@
 updates:
   - directory: /
-    open-pull-requests-limit: 3
     package-ecosystem: cargo
     schedule:
       interval: weekly
